@@ -24,7 +24,7 @@ export const ReactTracking: React.FunctionComponent<ITranckingProps> = (props:IT
           <iframe
             src="https://iframe.consoltics.com"
             width="100%"
-            height="4000px"
+            height="180"
             onLoad={hideSpinner}
             frameBorder="0"
           />
